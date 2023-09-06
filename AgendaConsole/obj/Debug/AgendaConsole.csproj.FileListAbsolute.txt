@@ -1,0 +1,7 @@
+E:\Projetos\CursoC#\Aula24\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+E:\Projetos\CursoC#\Aula24\AgendaConsole\bin\Debug\AgendaConsole.exe
+E:\Projetos\CursoC#\Aula24\AgendaConsole\bin\Debug\AgendaConsole.pdb
+E:\Projetos\CursoC#\Aula24\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+E:\Projetos\CursoC#\Aula24\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\Aula24\AgendaConsole\obj\Debug\AgendaConsole.exe
+E:\Projetos\CursoC#\Aula24\AgendaConsole\obj\Debug\AgendaConsole.pdb
